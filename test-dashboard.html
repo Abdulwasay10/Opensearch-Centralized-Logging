@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>OpenSearch Dashboard Viewer</title>
+  <style>
+    #dashboard-container {
+      margin-top: 20px;
+      display: none;
+    }
+
+    iframe {
+      width: 100%;
+      height: 800px;
+      border: none;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Click Below to View Dashboard</h2>
+
+  <button onclick="openOAuth()">Login & Load Dashboard</button>
+
+  <div id="dashboard-container">
+  </div>
+
+  <script>
+    function openOAuth() {
+      // Open the login page (OAuth2 Proxy endpoint) in a new window
+      const loginWindow = window.open(
+        'http://localhost/opensearch/oauth2/start', // redirect to oauth2-proxy login
+        '_blank',
+        'width=600,height=700'
+      );
+
+      // Poll to check if login is done
+      const interval = setInterval(() => {
+        if (loginWindow.closed) {
+          clearInterval(interval);
+          // After login, show the iframe with OpenSearch dashboard
+          document.getElementById('dashboard-container').style.display = 'block';
+          document.getElementById('dashboard-frame').src = 'http://localhost/opensearch/app/dashboards#/view/c0f4d340-7d04-46f4-a56d-ee0c4e436431?embed=true&_g=(filters:!(),refreshInterval)';
+        }
+      }, 1000);
+    }
+  </script>
+
+</body>
+</html>
+

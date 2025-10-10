@@ -1,0 +1,210 @@
+{"user_id": "101", "event": "login", "timestamp": "2025-07-03T11:00:00Z", "application_id":"gls360"}
+{"user_id": "102", "event": "click", "timestamp": "2025-07-03T11:00:05Z", "application_id":"gls360"}
+{"user_id": "103", "event": "logout", "timestamp": "2025-07-03T11:00:10Z", "application_id":"gls360"}
+{"user_id":"104", "event":"button", "timestamp":"2025-07-03T11:00:00Z", "application_id":"gls360"}
+{"user_id":"105", "event":"discover", "timestamp":"2025-07-03T11:00:05Z", "application_id":"gls360"}
+{"user_id": "106", "event": "login", "timestamp": "2025-07-03T11:00:15Z", "application_id":"gls360"}
+{"user_id": "107", "event": "click", "timestamp": "2025-07-03T11:00:20Z", "application_id":"gls360"}
+{"user_id": "108", "event": "logout", "timestamp": "2025-07-03T11:00:25Z", "application_id":"gls360"}
+{"user_id": "109", "event": "discover", "timestamp": "2025-07-03T11:00:30Z", "application_id":"gls360"}
+{"user_id": "110", "event": "button", "timestamp": "2025-07-03T11:00:35Z", "application_id":"gls360"}
+{"user_id": "111", "event": "login", "timestamp": "2025-07-03T11:00:40Z", "application_id":"gls360"}
+{"user_id": "112", "event": "click", "timestamp": "2025-07-03T11:00:45Z", "application_id":"gls360"}
+{"user_id": "113", "event": "logout", "timestamp": "2025-07-03T11:00:50Z", "application_id":"gls360"}
+{"user_id": "114", "event": "button", "timestamp": "2025-07-03T11:00:55Z", "application_id":"gls360"}
+{"user_id": "115", "event": "discover", "timestamp": "2025-07-03T11:01:00Z", "application_id":"gls360"}
+{"user_id": "116", "event": "login", "timestamp": "2025-07-03T11:01:05Z", "application_id":"gls360"}
+{"user_id": "117", "event": "click", "timestamp": "2025-07-03T11:01:10Z", "application_id":"gls360"}
+{"user_id": "118", "event": "logout", "timestamp": "2025-07-03T11:01:15Z", "application_id":"gls360"}
+{"user_id": "119", "event": "button", "timestamp": "2025-07-03T11:01:20Z", "application_id":"gls360"}
+{"user_id": "120", "event": "discover", "timestamp": "2025-07-03T11:01:25Z", "application_id":"gls360"}
+{"user_id": "121", "event": "login", "timestamp": "2025-07-03T11:01:30Z", "application_id":"gls360"}
+{"user_id": "122", "event": "click", "timestamp": "2025-07-03T11:01:35Z", "application_id":"gls360"}
+{"user_id": "123", "event": "logout", "timestamp": "2025-07-03T11:01:40Z", "application_id":"gls360"}
+{"user_id": "124", "event": "button", "timestamp": "2025-07-03T11:01:45Z", "application_id":"gls360"}
+{"user_id": "125", "event": "discover", "timestamp": "2025-07-03T11:01:50Z", "application_id":"gls360"}
+{"user_id": "126", "event": "login", "timestamp": "2025-07-03T11:01:55Z", "application_id":"gls360"}
+{"user_id": "127", "event": "click", "timestamp": "2025-07-03T11:02:00Z", "application_id":"gls360"}
+{"user_id": "128", "event": "logout", "timestamp": "2025-07-03T11:02:05Z", "application_id":"gls360"}
+{"user_id": "129", "event": "button", "timestamp": "2025-07-03T11:02:10Z", "application_id":"gls360"}
+{"user_id": "130", "event": "discover", "timestamp": "2025-07-03T11:02:15Z", "application_id":"gls360"}
+{"user_id": "131", "event": "login", "timestamp": "2025-07-03T11:02:20Z", "application_id":"gls360"}
+{"user_id": "132", "event": "click", "timestamp": "2025-07-03T11:02:25Z", "application_id":"gls360"}
+{"user_id": "133", "event": "logout", "timestamp": "2025-07-03T11:02:30Z", "application_id":"gls360"}
+{"user_id": "134", "event": "button", "timestamp": "2025-07-03T11:02:35Z", "application_id":"gls360"}
+{"user_id": "135", "event": "discover", "timestamp": "2025-07-03T11:02:40Z", "application_id":"gls360"}
+{"user_id": "136", "event": "login", "timestamp": "2025-07-03T11:02:45Z", "application_id":"gls360"}
+{"user_id": "137", "event": "click", "timestamp": "2025-07-03T11:02:50Z", "application_id":"gls360"}
+{"user_id": "138", "event": "logout", "timestamp": "2025-07-03T11:02:55Z", "application_id":"gls360"}
+{"user_id": "139", "event": "button", "timestamp": "2025-07-03T11:03:00Z", "application_id":"gls360"}
+{"user_id": "140", "event": "discover", "timestamp": "2025-07-03T11:03:05Z", "application_id":"gls360"}
+{"user_id": "141", "event": "event_1", "timestamp": "2025-07-03T11:01:1Z", "application_id": "gls360"}
+{"user_id": "142", "event": "event_2", "timestamp": "2025-07-03T11:02:2Z", "application_id": "gls360"}
+{"user_id": "143", "event": "event_3", "timestamp": "2025-07-03T11:03:3Z", "application_id": "gls360"}
+{"user_id": "144", "event": "event_4", "timestamp": "2025-07-03T11:04:4Z", "application_id": "gls360"}
+{"user_id": "145", "event": "event_5", "timestamp": "2025-07-03T11:05:5Z", "application_id": "gls360"}
+{"user_id": "146", "event": "event_6", "timestamp": "2025-07-03T11:00:6Z", "application_id": "gls360"}
+{"user_id": "147", "event": "event_7", "timestamp": "2025-07-03T11:01:7Z", "application_id": "gls360"}
+{"user_id": "148", "event": "event_8", "timestamp": "2025-07-03T11:02:8Z", "application_id": "gls360"}
+{"user_id": "149", "event": "event_9", "timestamp": "2025-07-03T11:03:9Z", "application_id": "gls360"}
+{"user_id": "150", "event": "event_10", "timestamp": "2025-07-03T11:04:10Z", "application_id": "gls360"}
+{"user_id": "151", "event": "event_11", "timestamp": "2025-07-03T11:05:11Z", "application_id": "gls360"}
+{"user_id": "152", "event": "event_12", "timestamp": "2025-07-03T11:00:12Z", "application_id": "gls360"}
+{"user_id": "153", "event": "event_13", "timestamp": "2025-07-03T11:01:13Z", "application_id": "gls360"}
+{"user_id": "154", "event": "event_14", "timestamp": "2025-07-03T11:02:14Z", "application_id": "gls360"}
+{"user_id": "155", "event": "event_15", "timestamp": "2025-07-03T11:03:15Z", "application_id": "gls360"}
+{"user_id": "156", "event": "event_16", "timestamp": "2025-07-03T11:04:16Z", "application_id": "gls360"}
+{"user_id": "157", "event": "event_17", "timestamp": "2025-07-03T11:05:17Z", "application_id": "gls360"}
+{"user_id": "158", "event": "event_18", "timestamp": "2025-07-03T11:00:18Z", "application_id": "gls360"}
+{"user_id": "159", "event": "event_19", "timestamp": "2025-07-03T11:01:19Z", "application_id": "gls360"}
+{"user_id": "160", "event": "event_20", "timestamp": "2025-07-03T11:02:20Z", "application_id": "gls360"}
+{"user_id": "161", "event": "event_21", "timestamp": "2025-07-03T11:03:21Z", "application_id": "gls360"}
+{"user_id": "162", "event": "event_22", "timestamp": "2025-07-03T11:04:22Z", "application_id": "gls360"}
+{"user_id": "163", "event": "event_23", "timestamp": "2025-07-03T11:05:23Z", "application_id": "gls360"}
+{"user_id": "164", "event": "event_24", "timestamp": "2025-07-03T11:00:24Z", "application_id": "gls360"}
+{"user_id": "165", "event": "event_25", "timestamp": "2025-07-03T11:01:25Z", "application_id": "gls360"}
+{"user_id": "166", "event": "event_26", "timestamp": "2025-07-03T11:02:26Z", "application_id": "gls360"}
+{"user_id": "167", "event": "event_27", "timestamp": "2025-07-03T11:03:27Z", "application_id": "gls360"}
+{"user_id": "168", "event": "event_28", "timestamp": "2025-07-03T11:04:28Z", "application_id": "gls360"}
+{"user_id": "169", "event": "event_29", "timestamp": "2025-07-03T11:05:29Z", "application_id": "gls360"}
+{"user_id": "170", "event": "event_30", "timestamp": "2025-07-03T11:00:30Z", "application_id": "gls360"}
+{"user_id": "171", "event": "event_31", "timestamp": "2025-07-03T11:01:31Z", "application_id": "gls360"}
+{"user_id": "172", "event": "event_32", "timestamp": "2025-07-03T11:02:32Z", "application_id": "gls360"}
+{"user_id": "173", "event": "event_33", "timestamp": "2025-07-03T11:03:33Z", "application_id": "gls360"}
+{"user_id": "174", "event": "event_34", "timestamp": "2025-07-03T11:04:34Z", "application_id": "gls360"}
+{"user_id": "175", "event": "event_35", "timestamp": "2025-07-03T11:05:35Z", "application_id": "gls360"}
+{"user_id": "176", "event": "event_36", "timestamp": "2025-07-03T11:00:36Z", "application_id": "gls360"}
+{"user_id": "177", "event": "event_37", "timestamp": "2025-07-03T11:01:37Z", "application_id": "gls360"}
+{"user_id": "178", "event": "event_38", "timestamp": "2025-07-03T11:02:38Z", "application_id": "gls360"}
+{"user_id": "179", "event": "event_39", "timestamp": "2025-07-03T11:03:39Z", "application_id": "gls360"}
+{"user_id": "180", "event": "event_40", "timestamp": "2025-07-03T11:04:40Z", "application_id": "gls360"}
+{"user_id": "181", "event": "event_41", "timestamp": "2025-07-03T11:05:41Z", "application_id": "gls360"}
+{"user_id": "182", "event": "event_42", "timestamp": "2025-07-03T11:00:42Z", "application_id": "gls360"}
+{"user_id": "183", "event": "event_43", "timestamp": "2025-07-03T11:01:43Z", "application_id": "gls360"}
+{"user_id": "184", "event": "event_44", "timestamp": "2025-07-03T11:02:44Z", "application_id": "gls360"}
+{"user_id": "185", "event": "event_45", "timestamp": "2025-07-03T11:03:45Z", "application_id": "gls360"}
+{"user_id": "186", "event": "event_46", "timestamp": "2025-07-03T11:04:46Z", "application_id": "gls360"}
+{"user_id": "187", "event": "event_47", "timestamp": "2025-07-03T11:05:47Z", "application_id": "gls360"}
+{"user_id": "188", "event": "event_48", "timestamp": "2025-07-03T11:00:48Z", "application_id": "gls360"}
+{"user_id": "189", "event": "event_49", "timestamp": "2025-07-03T11:01:49Z", "application_id": "gls360"}
+{"user_id": "190", "event": "event_50", "timestamp": "2025-07-03T11:02:50Z", "application_id": "gls360"}
+{"user_id": "141", "event": "login", "timestamp": "2025-07-03T11:01:1Z", "application_id": "gls360"}
+{"user_id": "142", "event": "login", "timestamp": "2025-07-03T11:02:2Z", "application_id": "gls360"}
+{"user_id": "143", "event": "login", "timestamp": "2025-07-03T11:03:3Z", "application_id": "gls360"}
+{"user_id": "144", "event": "login", "timestamp": "2025-07-03T11:04:4Z", "application_id": "gls360"}
+{"user_id": "145", "event": "login", "timestamp": "2025-07-03T11:05:5Z", "application_id": "gls360"}
+{"user_id": "146", "event": "login", "timestamp": "2025-07-03T11:00:6Z", "application_id": "gls360"}
+{"user_id": "147", "event": "login", "timestamp": "2025-07-03T11:01:7Z", "application_id": "gls360"}
+{"user_id": "148", "event": "login", "timestamp": "2025-07-03T11:02:8Z", "application_id": "gls360"}
+{"user_id": "149", "event": "login", "timestamp": "2025-07-03T11:03:9Z", "application_id": "gls360"}
+{"user_id": "150", "event": "login", "timestamp": "2025-07-03T11:04:10Z", "application_id": "gls360"}
+{"user_id": "151", "event": "login", "timestamp": "2025-07-03T11:05:11Z", "application_id": "gls360"}
+{"user_id": "152", "event": "login", "timestamp": "2025-07-03T11:00:12Z", "application_id": "gls360"}
+{"user_id": "153", "event": "login", "timestamp": "2025-07-03T11:01:13Z", "application_id": "gls360"}
+{"user_id": "154", "event": "login", "timestamp": "2025-07-03T11:02:14Z", "application_id": "gls360"}
+{"user_id": "155", "event": "login", "timestamp": "2025-07-03T11:03:15Z", "application_id": "gls360"}
+{"user_id": "156", "event": "login", "timestamp": "2025-07-03T11:04:16Z", "application_id": "gls360"}
+{"user_id": "157", "event": "login", "timestamp": "2025-07-03T11:05:17Z", "application_id": "gls360"}
+{"user_id": "158", "event": "login", "timestamp": "2025-07-03T11:00:18Z", "application_id": "gls360"}
+{"user_id": "159", "event": "login", "timestamp": "2025-07-03T11:01:19Z", "application_id": "gls360"}
+{"user_id": "160", "event": "login", "timestamp": "2025-07-03T11:02:20Z", "application_id": "gls360"}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.739263Z","Application":"GLS360","Metadata":{"userId":"101","ipAddress":"192.168.190.153","role":"admin","isActive":true,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.750699Z","Application":"GLS360","Metadata":{"userId":"102","ipAddress":"192.168.188.126","role":"user","isActive":true,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.759598Z","Application":"GLS360","Metadata":{"userId":"103","ipAddress":"192.168.14.160","role":"user","isActive":false,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.766284Z","Application":"GLS360","Metadata":{"userId":"104","ipAddress":"192.168.242.130","role":"admin","isActive":false,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.772636Z","Application":"GLS360","Metadata":{"userId":"105","ipAddress":"192.168.82.19","role":"editor","isActive":false,"modules":["settings","logs","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.778585Z","Application":"GLS360","Metadata":{"userId":"106","ipAddress":"192.168.63.159","role":"viewer","isActive":true,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.784167Z","Application":"GLS360","Metadata":{"userId":"107","ipAddress":"192.168.205.82","role":"editor","isActive":true,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.789694Z","Application":"GLS360","Metadata":{"userId":"108","ipAddress":"192.168.38.19","role":"user","isActive":false,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.795657Z","Application":"GLS360","Metadata":{"userId":"109","ipAddress":"192.168.42.220","role":"editor","isActive":false,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.801209Z","Application":"GLS360","Metadata":{"userId":"110","ipAddress":"192.168.190.92","role":"user","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.807039Z","Application":"GLS360","Metadata":{"userId":"111","ipAddress":"192.168.50.241","role":"viewer","isActive":false,"modules":["settings","logs","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.812728Z","Application":"GLS360","Metadata":{"userId":"112","ipAddress":"192.168.158.69","role":"user","isActive":false,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.818313Z","Application":"GLS360","Metadata":{"userId":"113","ipAddress":"192.168.40.147","role":"editor","isActive":false,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.823975Z","Application":"GLS360","Metadata":{"userId":"114","ipAddress":"192.168.87.169","role":"viewer","isActive":true,"modules":["settings","logs","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.829776Z","Application":"GLS360","Metadata":{"userId":"115","ipAddress":"192.168.240.145","role":"editor","isActive":true,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.835550Z","Application":"GLS360","Metadata":{"userId":"116","ipAddress":"192.168.241.13","role":"admin","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.841652Z","Application":"GLS360","Metadata":{"userId":"117","ipAddress":"192.168.34.193","role":"editor","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.847259Z","Application":"GLS360","Metadata":{"userId":"118","ipAddress":"192.168.166.248","role":"admin","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.852837Z","Application":"GLS360","Metadata":{"userId":"119","ipAddress":"192.168.235.146","role":"user","isActive":false,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.858704Z","Application":"GLS360","Metadata":{"userId":"120","ipAddress":"192.168.160.51","role":"admin","isActive":false,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.864215Z","Application":"GLS360","Metadata":{"userId":"121","ipAddress":"192.168.161.98","role":"editor","isActive":false,"modules":["settings","logs","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.870470Z","Application":"GLS360","Metadata":{"userId":"122","ipAddress":"192.168.123.129","role":"viewer","isActive":true,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.876151Z","Application":"GLS360","Metadata":{"userId":"123","ipAddress":"192.168.72.54","role":"editor","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.881626Z","Application":"GLS360","Metadata":{"userId":"124","ipAddress":"192.168.168.65","role":"user","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.887837Z","Application":"GLS360","Metadata":{"userId":"125","ipAddress":"192.168.103.193","role":"user","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.893364Z","Application":"GLS360","Metadata":{"userId":"126","ipAddress":"192.168.190.121","role":"viewer","isActive":true,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.899631Z","Application":"GLS360","Metadata":{"userId":"127","ipAddress":"192.168.184.121","role":"user","isActive":false,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.906675Z","Application":"GLS360","Metadata":{"userId":"128","ipAddress":"192.168.144.54","role":"admin","isActive":false,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.913274Z","Application":"GLS360","Metadata":{"userId":"129","ipAddress":"192.168.123.1","role":"admin","isActive":false,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.919166Z","Application":"GLS360","Metadata":{"userId":"130","ipAddress":"192.168.33.154","role":"user","isActive":false,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.925035Z","Application":"GLS360","Metadata":{"userId":"131","ipAddress":"192.168.132.137","role":"editor","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.931005Z","Application":"GLS360","Metadata":{"userId":"132","ipAddress":"192.168.233.213","role":"viewer","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.936603Z","Application":"GLS360","Metadata":{"userId":"133","ipAddress":"192.168.46.111","role":"user","isActive":false,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.942757Z","Application":"GLS360","Metadata":{"userId":"134","ipAddress":"192.168.99.209","role":"viewer","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.948469Z","Application":"GLS360","Metadata":{"userId":"135","ipAddress":"192.168.48.112","role":"user","isActive":true,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.953997Z","Application":"GLS360","Metadata":{"userId":"136","ipAddress":"192.168.17.98","role":"viewer","isActive":true,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.959579Z","Application":"GLS360","Metadata":{"userId":"137","ipAddress":"192.168.68.84","role":"editor","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.965148Z","Application":"GLS360","Metadata":{"userId":"138","ipAddress":"192.168.251.228","role":"admin","isActive":true,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.970789Z","Application":"GLS360","Metadata":{"userId":"139","ipAddress":"192.168.40.161","role":"user","isActive":false,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.976464Z","Application":"GLS360","Metadata":{"userId":"140","ipAddress":"192.168.52.186","role":"admin","isActive":false,"modules":["settings","logs","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.982051Z","Application":"GLS360","Metadata":{"userId":"141","ipAddress":"192.168.62.124","role":"user","isActive":true,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.987734Z","Application":"GLS360","Metadata":{"userId":"142","ipAddress":"192.168.111.114","role":"viewer","isActive":false,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.993362Z","Application":"GLS360","Metadata":{"userId":"143","ipAddress":"192.168.57.166","role":"user","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:41.999276Z","Application":"GLS360","Metadata":{"userId":"144","ipAddress":"192.168.196.11","role":"editor","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.005024Z","Application":"GLS360","Metadata":{"userId":"145","ipAddress":"192.168.7.226","role":"viewer","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.010796Z","Application":"GLS360","Metadata":{"userId":"146","ipAddress":"192.168.201.119","role":"viewer","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.016716Z","Application":"GLS360","Metadata":{"userId":"147","ipAddress":"192.168.6.34","role":"user","isActive":true,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.022759Z","Application":"GLS360","Metadata":{"userId":"148","ipAddress":"192.168.138.224","role":"editor","isActive":false,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.028364Z","Application":"GLS360","Metadata":{"userId":"149","ipAddress":"192.168.158.225","role":"viewer","isActive":false,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.034144Z","Application":"GLS360","Metadata":{"userId":"150","ipAddress":"192.168.210.223","role":"admin","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.040084Z","Application":"GLS360","Metadata":{"userId":"151","ipAddress":"192.168.150.253","role":"user","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.045802Z","Application":"GLS360","Metadata":{"userId":"152","ipAddress":"192.168.218.104","role":"viewer","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.051618Z","Application":"GLS360","Metadata":{"userId":"153","ipAddress":"192.168.133.234","role":"viewer","isActive":false,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.057413Z","Application":"GLS360","Metadata":{"userId":"154","ipAddress":"192.168.135.5","role":"editor","isActive":false,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.063483Z","Application":"GLS360","Metadata":{"userId":"155","ipAddress":"192.168.189.148","role":"admin","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.069280Z","Application":"GLS360","Metadata":{"userId":"156","ipAddress":"192.168.252.54","role":"user","isActive":true,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.075036Z","Application":"GLS360","Metadata":{"userId":"157","ipAddress":"192.168.191.123","role":"user","isActive":true,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.081077Z","Application":"GLS360","Metadata":{"userId":"158","ipAddress":"192.168.140.29","role":"admin","isActive":false,"modules":["settings","logs","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.087364Z","Application":"GLS360","Metadata":{"userId":"159","ipAddress":"192.168.248.40","role":"user","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.092787Z","Application":"GLS360","Metadata":{"userId":"160","ipAddress":"192.168.124.85","role":"editor","isActive":true,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.099133Z","Application":"GLS360","Metadata":{"userId":"161","ipAddress":"192.168.23.189","role":"viewer","isActive":false,"modules":["settings","logs","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.104734Z","Application":"GLS360","Metadata":{"userId":"162","ipAddress":"192.168.172.75","role":"editor","isActive":true,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.110472Z","Application":"GLS360","Metadata":{"userId":"163","ipAddress":"192.168.0.19","role":"user","isActive":true,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.116278Z","Application":"GLS360","Metadata":{"userId":"164","ipAddress":"192.168.225.191","role":"editor","isActive":false,"modules":["settings","logs","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.121803Z","Application":"GLS360","Metadata":{"userId":"165","ipAddress":"192.168.93.22","role":"viewer","isActive":false,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.127541Z","Application":"GLS360","Metadata":{"userId":"166","ipAddress":"192.168.14.212","role":"editor","isActive":true,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.133087Z","Application":"GLS360","Metadata":{"userId":"167","ipAddress":"192.168.64.197","role":"admin","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.138616Z","Application":"GLS360","Metadata":{"userId":"168","ipAddress":"192.168.181.175","role":"editor","isActive":false,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.144295Z","Application":"GLS360","Metadata":{"userId":"169","ipAddress":"192.168.40.197","role":"user","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.150095Z","Application":"GLS360","Metadata":{"userId":"170","ipAddress":"192.168.33.222","role":"user","isActive":false,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.155699Z","Application":"GLS360","Metadata":{"userId":"171","ipAddress":"192.168.115.68","role":"admin","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.161737Z","Application":"GLS360","Metadata":{"userId":"172","ipAddress":"192.168.226.105","role":"editor","isActive":false,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.167227Z","Application":"GLS360","Metadata":{"userId":"173","ipAddress":"192.168.19.245","role":"admin","isActive":false,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.173106Z","Application":"GLS360","Metadata":{"userId":"174","ipAddress":"192.168.128.152","role":"viewer","isActive":false,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.178911Z","Application":"GLS360","Metadata":{"userId":"175","ipAddress":"192.168.196.253","role":"admin","isActive":true,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.184744Z","Application":"GLS360","Metadata":{"userId":"176","ipAddress":"192.168.42.186","role":"editor","isActive":true,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.191296Z","Application":"GLS360","Metadata":{"userId":"177","ipAddress":"192.168.33.169","role":"editor","isActive":false,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.199214Z","Application":"GLS360","Metadata":{"userId":"178","ipAddress":"192.168.135.114","role":"viewer","isActive":false,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.205051Z","Application":"GLS360","Metadata":{"userId":"179","ipAddress":"192.168.6.138","role":"viewer","isActive":true,"modules":["settings","logs","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.210748Z","Application":"GLS360","Metadata":{"userId":"180","ipAddress":"192.168.24.109","role":"viewer","isActive":true,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.216437Z","Application":"GLS360","Metadata":{"userId":"181","ipAddress":"192.168.137.144","role":"viewer","isActive":true,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.222047Z","Application":"GLS360","Metadata":{"userId":"182","ipAddress":"192.168.124.158","role":"viewer","isActive":false,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.228221Z","Application":"GLS360","Metadata":{"userId":"183","ipAddress":"192.168.39.250","role":"editor","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.236163Z","Application":"GLS360","Metadata":{"userId":"184","ipAddress":"192.168.225.61","role":"viewer","isActive":true,"modules":["settings","logs","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.244953Z","Application":"GLS360","Metadata":{"userId":"185","ipAddress":"192.168.140.237","role":"admin","isActive":true,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.253913Z","Application":"GLS360","Metadata":{"userId":"186","ipAddress":"192.168.65.149","role":"editor","isActive":false,"modules":["settings","logs","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.261712Z","Application":"GLS360","Metadata":{"userId":"187","ipAddress":"192.168.119.187","role":"admin","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.268063Z","Application":"GLS360","Metadata":{"userId":"188","ipAddress":"192.168.245.230","role":"viewer","isActive":true,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.274114Z","Application":"GLS360","Metadata":{"userId":"189","ipAddress":"192.168.215.157","role":"editor","isActive":true,"modules":["dashboard","settings"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.280283Z","Application":"GLS360","Metadata":{"userId":"190","ipAddress":"192.168.57.225","role":"editor","isActive":false,"modules":["settings","logs","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.285902Z","Application":"GLS360","Metadata":{"userId":"191","ipAddress":"192.168.224.138","role":"user","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.292019Z","Application":"GLS360","Metadata":{"userId":"192","ipAddress":"192.168.107.36","role":"admin","isActive":true,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.297938Z","Application":"GLS360","Metadata":{"userId":"193","ipAddress":"192.168.186.53","role":"editor","isActive":true,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.305066Z","Application":"GLS360","Metadata":{"userId":"194","ipAddress":"192.168.67.248","role":"viewer","isActive":false,"modules":["dashboard"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.311557Z","Application":"GLS360","Metadata":{"userId":"195","ipAddress":"192.168.8.23","role":"viewer","isActive":true,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.317231Z","Application":"GLS360","Metadata":{"userId":"196","ipAddress":"192.168.48.96","role":"user","isActive":false,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.323159Z","Application":"GLS360","Metadata":{"userId":"197","ipAddress":"192.168.139.136","role":"viewer","isActive":true,"modules":["settings","logs","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.329190Z","Application":"GLS360","Metadata":{"userId":"198","ipAddress":"192.168.75.184","role":"admin","isActive":true,"modules":["reports","logs"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.334800Z","Application":"GLS360","Metadata":{"userId":"199","ipAddress":"192.168.212.174","role":"editor","isActive":false,"modules":["analytics","users"]}}
+{"EventName":"UserLoggedIn","Timestamp":"2025-07-10T07:29:42.341296Z","Application":"GLS360","Metadata":{"userId":"200","ipAddress":"192.168.232.171","role":"admin","isActive":false,"modules":["reports","logs"]}}
