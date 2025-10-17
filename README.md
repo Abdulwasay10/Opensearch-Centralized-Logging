@@ -55,8 +55,8 @@ Perfect for DevOps engineers looking to implement clean, maintainable logging in
 
 Clone repository
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Abdulwasay10/Opensearch-Centralized-Logging.git
+cd Opensearch-Centralized-Logging
 ```
 
 ### Start OpenSearch and Dashboards
