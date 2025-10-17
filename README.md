@@ -127,7 +127,7 @@ event-logs-2025.10.19
 
 ## Sample Dashboard:
 
-<img width="1282" height="617" alt="image" src="https://github.com/user-attachments/assets/fd09f2c2-933a-4f83-a192-68e70d7e2b54" />
+<img width="1294" height="696" alt="image" src="https://github.com/user-attachments/assets/8488440c-2200-467c-8c7e-7d71f4ae37ce" />
 
 
 ## Useful Resources
