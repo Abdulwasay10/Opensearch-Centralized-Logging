@@ -25,32 +25,8 @@ Perfect for DevOps engineers looking to implement clean, maintainable logging in
 - Zero File Artifacts: No log files in repository or containers
 
 ## Flow Chart
-┌─────────────────────────────────┐
-│  .NET Application               │
-│  ┌───────────────────────────┐  │
-│  │  Serilog Logger           │  │
-│  │  • WithMachineName()      │  │
-│  │  • WithThreadId()         │  │
-│  │  • FromLogContext()       │  │
-│  └───────────┬───────────────┘  │
-│              │ Direct HTTP      │
-└──────────────┼──────────────────┘
-               │ (Batched)
-               ▼
-    ┌──────────────────────┐
-    │  OpenSearch          │
-    │  Port: 9201          │
-    │  • Daily Indices     │
-    │  • Auto Template     │
-    └──────────┬───────────┘
-               │
-               │ Query/Visualize
-               ▼
-    ┌──────────────────────┐
-    │  OpenSearch          │
-    │  Dashboards          │
-    │  Port: 5602          │
-    └──────────────────────┘
+<img width="222" height="451" alt="image" src="https://github.com/user-attachments/assets/549fd39e-3bb6-4910-8cdd-a99593994706" />
+
 
 
 ### Traditional Logstash Approach Issues:
@@ -126,11 +102,11 @@ You'll see logs being generated and shipped directly to OpenSearch:
 
 ### Step 3: View Logs in OpenSearch Dashboards
 
-1 Open browser: http://localhost:5602/opensearch
-2 Go to Management → Index Patterns
-3 Create pattern: event-logs-*
-4 Select @timestamp as time field
-5 Navigate to Discover to see your logs
+1. Open browser: http://localhost:5602/opensearch
+2. Go to Management → Index Patterns
+3. Create pattern: event-logs-*
+4. Select @timestamp as time field
+5. Navigate to Discover to see your logs
 
 
 #### Index Strategy
@@ -156,7 +132,7 @@ event-logs-2025.10.19
 
 ## Useful Resources
 
-[OpenSearch Documentation](https://opensearch.org/docs/)
-[Serilog Wiki](https://github.com/serilog-contrib/serilog-sinks-opensearch)
-[Docker Compose Reference](https://docs.docker.com/compose/compose-file/)](https://docs.docker.com/compose/compose-file/)
-[Structured Logging Best Practices](https://github.com/serilog/serilog/wiki/Structured-Data)
+- [OpenSearch Documentation](https://opensearch.org/docs/)
+- [Serilog Wiki](https://github.com/serilog-contrib/serilog-sinks-opensearch)
+- [Docker Compose Reference](https://docs.docker.com/compose/compose-file/)]
+- [Structured Logging Best Practices](https://github.com/serilog/serilog/wiki/Structured-Data)
